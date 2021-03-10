@@ -16,3 +16,19 @@
 
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+
+"Verhoeven":
+  - firstname: ["Floor", "F."]
+    url: https://www.linkedin.com/in/floor-verhoeven-40286258/
+
+"Sorkine-Hornung":
+  - firstname: ["Olga", "O."]
+    url: https://igl.ethz.ch/people/sorkine/index.php
+
+"Vaxman":
+  - firstname: ["Amir", "A."]
+    url: https://webspace.science.uu.nl/~vaxma001/
+
+"Hoffmann":
+  - firstname: ["Tim", "T."]
+    url: https://geo.ma.tum.de/de/personen/tim-hoffmann.html  
