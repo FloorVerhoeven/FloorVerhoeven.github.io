@@ -31,4 +31,12 @@
 
 "Hoffmann":
   - firstname: ["Tim", "T."]
-    url: https://geo.ma.tum.de/de/personen/tim-hoffmann.html  
+    url: https://geo.ma.tum.de/de/personen/tim-hoffmann.html
+    
+"Binninger":
+  - firstname: ["Alexandre", "A."]
+    url: https://igl.ethz.ch/people/
+    
+"Herholz":
+  - firstname: ["Philipp", "P."]
+    url: https://people.inf.ethz.ch/herholzp/
