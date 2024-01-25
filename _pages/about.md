@@ -1,26 +1,24 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href='https://igl.ethz.ch'>IGL | ETH Zurich</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: FloorPhoto.jpg
+  address: >
+#    <p>555 your office number</p>
+#    <p>123 your address street</p>
+#    <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello, my name is Floor Verhoeven. I am a PhD student at the [Interactive Geometry Lab](https://igl.ethz.ch) at ETH Zurich, and I am supervised by [Prof. Dr. Olga Sorkine-Hornung](https://igl.ethz.ch/people/sorkine/index.php). I hold a BSc in Human Movement Sciences and a BSc in Computer Science, both from Vrije Universiteit Amsterdam. I have earned my MSc in Computer Science with a specialization in Visual Computing at ETH Zurich.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am interested in geometry problems that are related to digital fabrication as well as interactive modeling and shape editing. Research into practical algorithms for architectural and fashion design especially interest me, as well as using machine learning when problems are too complex for a classical differential geometry approach.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my spare time I like to go fishing. I've been a member of the Dutch National Women's team since 2015 and I am the 2021 Women's World Champion Coarse Angling.
