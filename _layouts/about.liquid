@@ -20,7 +20,7 @@ layout: default
           <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
             {%- if page.profile.image %}
               {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
-              {% include figure.html 
+              {% include figure.liquid 
               path=profile_image_path 
               class="img-fluid z-dept-1 rounded"
               alt=page.profile.image -%}
@@ -39,17 +39,17 @@ layout: default
 
           {% if page.news -%}
           <!-- News -->
-          {%- include news.html %}
+          {%- include news.liquid %}
           {%- endif %}
           {% if page.selected_papers -%}
             <!-- Selected papers -->
-            {%- include selected_papers.html %}
+            {%- include selected_papers.liquid %}
           {%- endif %}
           {%- if page.social %}
           <!-- Social -->
           <div class="social">
             <div class="contact-icons">
-            {% include social.html %}
+            {% include social.liquid %}
             </div>
 
             <div class="contact-note">
