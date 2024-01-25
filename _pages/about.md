@@ -21,4 +21,4 @@ Hello, my name is Floor Verhoeven. I am a PhD student at the [Interactive Geomet
 
 I am interested in geometry problems that are related to digital fabrication as well as interactive modeling and shape editing. Research into practical algorithms for architectural and fashion design especially interest me, as well as using machine learning when problems are too complex for a classical differential geometry approach.
 
-In my spare time I like to go fishing. I've been a member of the Dutch National Women's team since 2015 and I am the 2021 Women's World Champion Coarse Angling.
+In my spare time I like to go fishing. I've been a member of the Dutch National Women's team since 2015 and I am the 2021 World Champion Coarse Angling in the Women's category.
