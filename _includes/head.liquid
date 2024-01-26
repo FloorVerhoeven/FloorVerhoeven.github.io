@@ -52,6 +52,7 @@
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
 <!-- Dark Mode -->
+<!--
 {% if site.enable_darkmode %}
   <link
     rel="stylesheet"
@@ -61,3 +62,9 @@
   >
   <script src="{{ '/assets/js/theme.js' | relative_url | bust_file_cache }}"></script>
 {% endif %}
+-->
+
+<!-- Theming -->
+  <script src="/assets/js/theme.js"></script>
+  <!-- Load DarkMode JS -->
+<script src="/assets/js/dark_mode.js"></script>
