@@ -708,10 +708,11 @@ footer.sticky-bottom {
 
       .author {
         a {
-          border-bottom: 1px dashed var(--global-theme-color);
+          color: var(--global-text-color);
 
           &:hover {
-            border-bottom-style: solid;
+            border-bottom: 1px solid(--global-theme-color);
+            border-bottom-style: solid var(--global-theme-color);
             text-decoration: none;
           }
         }
