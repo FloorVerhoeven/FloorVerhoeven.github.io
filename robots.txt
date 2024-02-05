@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://floorverhoeven.github.io/FloorVerhoeven_new//sitemap.xml
+Sitemap: https://floorverhoeven.github.io/sitemap.xml
