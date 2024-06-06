@@ -9,6 +9,7 @@ nav: true
 <p>Courses I have taught at ETH during my PhD:</p>
 
 <ul>
+  <li><a href="https://igl.ethz.ch/teaching/shape-modeling/sm2024/">252-0538-00L: Shape Modeling and Geometry Processing (S2024)</a></li>
   <li><a href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=171679&semkez=2023W&ansicht=LEHRVERANSTALTUNGEN&lang=en">252-0832-00L: Informatik for D-MAVT (F2023)</a></li>
   <li><a href="https://igl.ethz.ch/teaching/shape-modeling/sm2023/">252-0538-00L: Shape Modeling and Geometry Processing (S2023)</a></li>
   <li><a href="https://igl.ethz.ch/teaching/linear-algebra/la2022/">401-0131-00L: Lineare Algebra (F2022)</a></li>
