@@ -17,8 +17,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, my name is Floor Verhoeven. I am a PhD student at the [Interactive Geometry Lab](https://igl.ethz.ch) at ETH Zurich, and I am supervised by [Prof. Dr. Olga Sorkine-Hornung](https://igl.ethz.ch/people/sorkine/index.php). I hold a BSc in Human Movement Sciences and a BSc in Computer Science, both from Vrije Universiteit Amsterdam. I have earned my MSc in Computer Science with a specialization in Visual Computing at ETH Zurich.
+Hi, my name is Floor! I earned my PhD from the [Interactive Geometry Lab](https://igl.ethz.ch) at ETH Zurich, where I was supervised by [Prof. Dr. Olga Sorkine-Hornung](https://igl.ethz.ch/people/sorkine/index.php).
 
-I am interested in geometry problems that are related to digital fabrication as well as interactive modeling and shape editing. Research into practical algorithms for architectural and fashion design especially interest me, as well as using machine learning when problems are too complex for a classical differential geometry approach.
+My research focuses on the intersections of computer graphics, artificial intelligence and computer vision. I am passionate about 2D and 3D geometry and more generally love developing innovative systems that simplify or enhance creative design processes. With expertise both in classical geometry processing and machine learning, I tackle research challenges from diverse angles to create robust solutions.
 
-In my spare time I like to go fishing. I've been a member of the Dutch National Women's team since 2015 and I am the 2021 World Champion Coarse Angling in the Women's category.
+In my spare time, I love to go fishing to unwind. What began as a hobby has led me to become the 2021 Women’s World Champion, and my team and I have been the Dutch National Champion for the past 5 years.
+
+I am currently seeking a position as a research scientist or engineer where I can apply my skills to challenging problems in 2D and 3D geometry or creative software development.
