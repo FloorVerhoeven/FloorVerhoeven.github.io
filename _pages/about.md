@@ -2,7 +2,8 @@
 layout: about
 title: home
 permalink: /
-description: <a href='https://igl.ethz.ch'>IGL | ETH Zurich</a>
+description: 
+# <a href='https://igl.ethz.ch'>IGL | ETH Zurich</a>
 
 profile:
   align: right
